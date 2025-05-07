@@ -28,3 +28,5 @@ Learning **React JS & TypeScript**
 
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=rahmonovsaydullo&color=green)
