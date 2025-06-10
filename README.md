@@ -17,7 +17,8 @@ Learning **React JS & TypeScript**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 
 
