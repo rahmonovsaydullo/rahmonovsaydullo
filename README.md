@@ -29,7 +29,7 @@ Learning **React JS & TypeScript**
 
 ### 🔗 Reach me
 <code>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saydullojon-rahmonov/)</code>
-<code>[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/noneone_s)</code>
+<code>[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/noneone_sf)</code>
 <code>[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Saydullajon/)</code>
 
 
